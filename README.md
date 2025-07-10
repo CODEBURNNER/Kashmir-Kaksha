@@ -1,6 +1,6 @@
 # 🏔️ Kashmir Kaksha - Cultural & Vendor Showcase Website
 
-🚀 **Live Demo:** [Check it out] (https://kashmirkaksha.netlify.app)
+🚀 **Live Demo:** [Check it out](https://kashmirkaksha.netlify.app)
 
 ## 📌 Project Overview
 
